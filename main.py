@@ -1,4 +1,4 @@
-def greatherThan(a,b):
+def greaterThan(a,b):
     if a>b :
         return(True)
     else:
