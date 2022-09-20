@@ -1,25 +1,25 @@
 def greatherThan(a,b):
     if a>b :
-        return("true")
+        return(True)
     else:
-        return("false") 
+        return(False) 
 def lessThan(a,b):
     if a<b:
-        return("true")
+        return(True)
     else: 
-        return("false")
+        return(False)
 def equalTo(a,b):
     if a==b:
-        return("true")
+        return(True)
     else:
-        return("false")
+        return(False)
 def greaterOrEqual(a,b):
     if a>=b:
-        return("true")
+        return(True)
     else:
-        return("false")
+        return(False)
 def lessOrEqual(a,b):
     if a<=b:
-        return("true")
+        return(True)
     else:
-        return("false")
+        return(False)
